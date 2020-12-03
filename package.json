@@ -1,0 +1,12 @@
+{
+  "name": "@andgohq/prettier-config",
+  "version": "1.0.0",
+  "description": "A shared Prettier config",
+  "main": "prettier.config.js",
+  "scripts": {
+  },
+  "repository": "git://github.com/andgohq/prettier-config.git",
+  "author": "ANDGO, Inc.",
+  "license": "MIT",
+  "homepage": "https://github.com/andgohq/prettier-config#readme"
+}
